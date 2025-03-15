@@ -39,7 +39,7 @@ Investigar como a concentração da infraestrutura de Inteligência Artificial (
 
 Este estudo investigará o impacto da centralização da infraestrutura de inteligência artificial nos mercados emergentes, focando na dependência tecnológica, seus efeitos sobre a soberania digital, a competitividade econômica e os riscos geopolíticos. A pesquisa também explorará alternativas descentralizadas, como edge computing e federated learning, para mitigar essas vulnerabilidades e promover maior autonomia tecnológica. Ao abordar uma lacuna crítica na literatura sobre a economia digital, o estudo visa fornecer um arcabouço teórico para políticas públicas que promovam a soberania digital e ajudem os mercados emergentes a evitar a "colonização digital", fortalecendo suas capacidades tecnológicas e competitivas no cenário global.
 
-## Metodologia de Pesquisa
+## Metodologia de Pesquisa (alterar sprint 4)
 
 ### Tipo de Pesquisa
 
