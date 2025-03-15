@@ -4,25 +4,17 @@ Autora: Luana Dinamarca Parra
 
 ## Motivação e Justificativa 
 
-Em 2025, a Inteligência Artificial (IA) consolidou-se como um dos motores centrais da economia global, impulsionando inovação, eficiência e novas dinâmicas competitivas. No entanto, a infraestrutura que sustenta essa revolução - processamento em nuvem, armazenamento de dados e capacidade de treinamento de modelos - permanece fortemente concentrada nas mãos de um seleto grupo de corporações e países desenvolvidos. Gigantes tecnológicos como Microsoft, Google e Amazon detém aproximadamente 70% do mercado global de serviços em nuvem, estabelecendo um monopólio de infraestrutura que define quem pode acessar e utilizar IA de forma competitiva. 
+Em 2025, a Inteligência Artificial (IA) se consolidou como um dos principais motores da economia global, impulsionando inovação, eficiência e novas dinâmicas competitivas. No entanto, a infraestrutura que sustenta essa revolução — processamento em nuvem, armazenamento de dados e a capacidade de treinar modelos — permanece amplamente controlada por um pequeno grupo de corporações e países desenvolvidos. Gigantes tecnológicos como Microsoft, Google e Amazon dominam cerca de 70% do mercado global de serviços em nuvem, estabelecendo um monopólio de infraestrutura que determina quem pode acessar e utilizar a IA de maneira competitiva.
 
-Nos mercados emergentes, essa concentração impõe alguns desafios. Empresas e governos dessas regiões dependem de infraestrutura estrangeira para hospedar dados sensíveis, processar informações estratégicas e desenvolver modelos de IA, o que pode resultar em perda de soberania digital e vulnerabilidade geopolítica. A recente suspensão de serviços da AWS para empresas russas após a invasão da Ucrânia (2022) e as sanções dos EUA contra o acesso da China a semicondutores de última geração (2023) demonstram como a infraestrutura de IA se tornou uma ferramenta de poder econômico e geopolítico. Países que não controlam sua infraestrutura digital podem se tornar reféns de decisões tomadas por poucas corporações e governos estrangeiros.
+Nos mercados emergentes, essa centralização apresenta desafios significativos. Empresas e governos dessas regiões dependem da infraestrutura estrangeira para armazenar dados sensíveis, processar informações estratégicas e desenvolver modelos de IA, o que pode levar à perda de soberania digital e aumentar a vulnerabilidade geopolítica. A suspensão recente dos serviços da AWS para empresas russas após a invasão da Ucrânia (2022) e as sanções dos EUA contra o acesso da China a semicondutores avançados (2023) demonstram como a infraestrutura de IA se transformou em uma ferramenta de poder econômico e geopolítico. Países que não controlam sua infraestrutura digital correm o risco de se tornarem reféns de decisões tomadas por um número restrito de corporações e governos estrangeiros, o que impacta diretamente sua autonomia no desenvolvimento de inovações e na proteção de dados estratégicos.
 
-A pesquisa tem como motivação investigar como a centralização da infraestrutura de IA afeta a soberania econômica e competitividade dos mercados emergentes e quais estratégias descentralizadas podem mitigar essa nova forma de dependência digital.
+Além disso, a centralização da IA exacerba desigualdades entre nações desenvolvidas e mercados emergentes, onde a falta de acesso a tecnologias avançadas pode dificultar a competitividade em setores chave como saúde, finanças e educação. A dependência de plataformas estrangeiras também pode tornar esses mercados vulneráveis a práticas comerciais desleais, como manipulação de dados e monopolização de informações, prejudicando a transparência e a equidade.
+
+A pesquisa se propõe a investigar como a centralização da infraestrutura e dos modelos de IA por grandes corporações reconfigura as dinâmicas de poder global, afetando a soberania econômica e tecnológica dos mercados emergentes. Além disso, busca explorar quais estratégias descentralizadas poderiam mitigar essa nova forma de dependência digital. Isso inclui o estudo de alternativas como a criação de infraestruturas locais de computação em nuvem, o desenvolvimento de soluções de IA open-source, o fortalecimento da colaboração internacional entre países em desenvolvimento.
 
 ## Problema de Pesquisa
 
-Como a centralização da infraestrutura e modelos de inteligência artificial influenciam na a dependência econômica e geopolítica dos mercados emergentes
-
-Como a descentralização da infraestrutura de inteligência artificial pode reduzir a dependência econômica e geopolítica dos mercados emergentes, promovendo soberania digital e redistribuição equitativa do valor econômico gerado pela IA?
-OU
-Como a centralização de dados afeta a competitividade, a produtividade e a autonomia econômica dos mercados emergentes, e quais estratégias podem ser adotadas para fomentar a descentralização tecnológica?
-OU 
-De que forma a centralização da infraestrutura de inteligência artificial por grandes corporações impacta a soberania econômica e a competitividade dos mercados emergentes, e quais estratégias podem mitigar essa nova dependência digital?
-OU 
-Como a centralização da infraestrutura e dos modelos de inteligência artificial pelas grandes corporações impacta a soberania econômica e a competitividade dos mercados emergentes, e quais estratégias podem mitigar essa nova dependência digital?
-OU 
-Como a centralização da infraestrutura de inteligência artificial por grandes corporações impacta a soberania econômica e a competitividade dos mercados emergentes, e de que forma a descentralização computacional pode reduzir vulnerabilidades geopolíticas, garantindo maior controle sobre dados estratégicos e promovendo segurança e autonomia tecnológica?
+Como a centralização da infraestrutura e dos modelos de inteligência artificial por grandes corporações reconfigura as dinâmicas de poder global, impactando a soberania econômica e tecnológica dos mercados emergentes?
 
 ## Objetivos
 
@@ -32,22 +24,20 @@ Investigar como a concentração da infraestrutura de Inteligência Artificial (
 
 ### Objetivos Específicos
 
+- Entender como a dependência de infraestruturas centralizadas (AWS, Google Cloud, Microsoft Azure) afeta a autonomia das empresas locais.
+- Buscar casos de empresas que perderam competitividade por dependerem de plataformas globais para armazenamento e processamento de dados.
 - Mapear os impactos da centralização da IA na economia brasileira e global.
 - Avaliar riscos macroeconômicos e geopolíticos da dependência digital.
-- Investigar o potencial da descentralização para fortalecer a soberania digital.
+- Investigar o potencial da descentralização para fortalecer a soberania digital (edge computing, federated learning).
+- Entender se os algoritmos globais treinados com dados de países desenvolvidos falham em entender mercados emergentes.
+- Relação com iniciativas open-source e dados distribuídos por cooperativas digitais.
+- Entender se a centralização da infraestrutura digital por grandes empresas limita a inovação e aumenta custos para empresas (até mesmo startups emergentes).
+- Entender se organizações descentralizadas autônomas (DAOs) podem desafiar modelos corporativos tradicionais.
+- Casos de de empresas e comunidades que utilizam blockchain para descentralizar governança e acesso a capital.
 
 ## Escopo
 
-Este estudo analisará o impacto da dependência tecnológica em economias emergentes, explorando como a concentração da infraestrutura computacional afeta o crescimento econômico, segurança nacional e soberania digital. A pesquisa fornecerá um arcabouço teórico para embasar políticas públicas e estratégias econômicas voltadas à autonomia tecnológica, contribuindo para os debates sobre inovação, governança digital e desenvolvimento.
-
-Atualmente, muitas pesquisas sobre economia digital e inteligência artificial focam em: 
- ✅ Impactos da automação no mercado de trabalho
- ✅ Uso de IA para impulsionar a produtividade
- ✅ Regulamentação e ética na inteligência artificial
-
-Mas ainda há uma lacuna crucial:
- ❌ O impacto macroeconômico da centralização da IA em mercados emergentes e sua relação com soberania econômica. Tendo em vista a corrida tecnológica global desigual, na qual a infraestrutura de IA é um novo ativo geopolítico. Assim como os países que perderam a Revolução Industrial nunca conseguiram recuperar sua competitividade global, os mercados emergentes correm o risco de se tornar digitalmente colonizados. O modelo atual coloca esses países em uma posição de exportadores de dados brutos e importadores de inteligência, criando um ciclo vicioso de dependência econômica.
-
+Este estudo investigará o impacto da centralização da infraestrutura de inteligência artificial nos mercados emergentes, focando na dependência tecnológica, seus efeitos sobre a soberania digital, a competitividade econômica e os riscos geopolíticos. A pesquisa também explorará alternativas descentralizadas, como edge computing e federated learning, para mitigar essas vulnerabilidades e promover maior autonomia tecnológica. Ao abordar uma lacuna crítica na literatura sobre a economia digital, o estudo visa fornecer um arcabouço teórico para políticas públicas que promovam a soberania digital e ajudem os mercados emergentes a evitar a "colonização digital", fortalecendo suas capacidades tecnológicas e competitivas no cenário global.
 
 ## Metodologia de Pesquisa
 
