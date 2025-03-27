@@ -2,45 +2,55 @@
 
 Author: Luana Dinamarca Parra
 
+# Abstract (Scope)
+
+The centralization of artificial intelligence (AI) infrastructure presents a strategic challenge for companies in emerging countries, as it compromises their digital sovereignty, economic competitiveness, and geopolitical security. The concentration of data and computational power in a handful of global technology providers limits local innovation, hinders the development of autonomous technological ecosystems, and exposes these countries to dependency on foreign infrastructures. This research aims to understand the implications of such centralization and analyze decentralized alternatives discussed in the literature—such as blockchain, edge computing, and federated learning—that redistribute data processing and may contribute to reducing external dependence while strengthening technological autonomy. The methodology is qualitative, based on semi-structured interviews with experts in the field, seeking to investigate how AI infrastructure centralization affects the technological autonomy of companies in emerging economies and what solutions have been explored to address this dependency. As a practical contribution, this research proposes a theoretical framework to support the formulation of business strategies aimed at building more resilient AI ecosystems, contributing to mitigate the exposure of emerging countries to "digital colonization" and strengthen their position in the global digital economy.
+
 Key-words: economics, centralized technology, digital infrastructure, data, macro economics, emergent markets, artificial intelligence
 
-## Motivation and Justification
+## Introduction (Motivation, Justification, Objectives, Research Question)
 
-In 2025, Artificial Intelligence (AI) has become one of the main drivers of the global economy, fueling innovation, efficiency, and new competitive dynamics. However, the infrastructure that supports this revolution — cloud processing, data storage, and the capacity to train models — remains largely controlled by a small group of corporations and developed countries. Tech giants like Microsoft, Google, and Amazon dominate around 70% of the global cloud services market, establishing an infrastructure monopoly that determines who can access and utilize AI competitively.
+Artificial Intelligence (AI) has established itself as one of the main engines of contemporary global economy, driving innovation, efficiency, and redefining competitive dynamics across various strategic sectors (Crawford, 2021; van der Vlist et al., 2024). Beyond its economic role, AI has begun to reorganize power structures, consolidating a new informational geopolitics marked by asymmetries in access to and control over digital infrastructure (Ferrari et al., 2023; Khanal et al., 2024). This infrastructure—comprising data centers, cloud computing platforms, storage systems, and the capacity to train advanced models such as Large Language Models (LLMs)—is highly concentrated in a small number of technology corporations, predominantly headquartered in the United States.
 
-In emerging markets, this centralization presents significant challenges. Companies and governments in these regions rely on foreign infrastructure to store sensitive data, process strategic information, and develop AI models, which can lead to the loss of digital sovereignty and increase geopolitical vulnerability. The recent suspension of AWS services for Russian companies after the invasion of Ukraine (2022) and US sanctions on China's access to advanced semiconductors (2023) demonstrate how AI infrastructure has become a tool of economic and geopolitical power. Countries that do not control their digital infrastructure risk becoming hostages to decisions made by a small number of foreign corporations and governments, directly impacting their autonomy in developing innovations and protecting strategic data.
+Companies like Amazon, Microsoft, Google, and Meta not only supply technology but also exert growing influence over political, economic, and social decisions on a global scale (van der Vlist et al., 2024). This phenomenon, referred to as "Big AI," reflects a regime of technical interdependence that conceals economic and geopolitical domination. Countries that lack control over their digital infrastructure become subject to decisions made by foreign—public or private—actors and face severe limitations to autonomous innovation (Ferrari et al., 2023).
 
-Furthermore, the centralization of AI exacerbates inequalities between developed nations and emerging markets, where the lack of access to advanced technologies may hinder competitiveness in key sectors like healthcare, finance, and education. Dependence on foreign platforms can also make these markets vulnerable to unfair business practices, such as data manipulation and information monopolization, undermining transparency and fairness.
+In emerging markets, this asymmetry imposes several challenges: the exclusion of local startups from global innovation ecosystems, dependency on foreign infrastructure for storing and processing strategic data, and the difficulty of adapting algorithmic models to local socio-cultural realities (Luitse & Denkena, 2021). In these contexts, AI centralization not only obstructs development opportunities but also exacerbates historical inequalities, intensifying economic vulnerability and geopolitical exposure (Khanal et al., 2024; Zhang et al., 2023).
 
-The research aims to investigate how the centralization of AI infrastructure and models by large corporations reconfigures global power dynamics, affecting the economic and technological sovereignty of emerging markets. Additionally, it seeks to explore what decentralized strategies could mitigate this new form of digital dependency. This includes studying alternatives such as the creation of local cloud computing infrastructures, the development of open-source AI solutions, strengthening international collaboration among developing countries
+The return of Donald Trump to the U.S. presidency in 2025, accompanied by the CEOs of the largest global big tech companies at his inauguration ceremony, symbolizes the consolidation of a strategic alliance between state power and digital infrastructural power. This highly symbolic gesture illustrates a geopolitical repositioning of the United States and confirms the central role of tech corporations as actors in international diplomacy, cybersecurity, and digital narrative warfare (Khanal et al., 2024).
 
-## Research Problem
+The politicization of digital infrastructure renders this scenario even more critical. The prominence of populist and nationalist figures like Trump illustrates how private control over data flows, algorithms, and platforms can be instrumentalized in electoral disputes and strategies for public opinion manipulation. Big tech companies, by shaping discursive environments, directly influence legislative processes, impose technological standards, and often—without transparency—define the parameters under which AI is taught, applied, and validated, including within universities and research centers. This process consolidates a technocratic epistemology deeply rooted in the values and interests of the Global North, thereby limiting the scientific and cultural autonomy of peripheral nations (Luchs & Apprich, 2023).
 
-How does the centralization of infrastructure and AI models by large corporations reconfigure global power dynamics, impacting the economic and technological sovereignty of emerging markets?
+The transformation of AI infrastructure into a strategic asset and a tool of global coercion is exemplified by episodes such as the suspension of AWS services to Russian companies after the invasion of Ukraine (2022) and U.S. sanctions on the export of advanced semiconductors to China (2023) (Smith et al., 2022). These actions expose the systemic risks faced by nations lacking control over their digital infrastructure—rendering them vulnerable to technological disruptions driven by political decisions or external economic interests.
 
-## Objectives
+Moreover, AI centralization amplifies preexisting disparities. Emerging markets face barriers to accessing high-performance infrastructure, undermining their capacity to compete in critical sectors such as healthcare, education, and finance (Crawford, 2021; Luchs & Apprich, 2023). Dependence on foreign platforms also exposes these economies to unfair practices such as data monopolization and algorithmic manipulation, negatively affecting equity, transparency, and informational sovereignty (Luitse & Denkena, 2021).
 
-### General Objectives
+Given this context, this study aims to answer the following research question: How does the centralization of artificial intelligence infrastructure and models by major technology corporations reshape global power dynamics and impact the economic and technological sovereignty of emerging markets? The analysis considers the technical interdependence between AI and cloud platforms; the role of big techs in shaping national strategies; the macroeconomic and geopolitical risks of digital dependence; and the feasibility of decentralized solutions—such as blockchain, edge computing, and federated learning—in contexts with limited infrastructure (Lim et al., 2022; Salama et al., 2023).
 
-To investigate how the concentration of Artificial Intelligence (AI) infrastructure in the hands of large corporations impacts the economic sovereignty, business competitiveness, and macroeconomic stability of Brazil and other emerging markets. In addition, to assess the potential of computational decentralization as a strategy to mitigate geopolitical risks, reduce economic vulnerabilities, and strengthen control over strategic data.
+This article seeks to contribute to the debate on digital sovereignty by proposing a new theoretical framework to support the formulation of business strategies and public policies aimed at building AI ecosystems that are more resilient, equitable, and autonomous. The ambition is clear: to mitigate the systemic vulnerabilities that threaten companies in emerging economies (Ferrari et al., 2023; van der Vlist et al., 2025).
 
-### Specific Objectives
+### References
 
-- Understand how dependence on centralized infrastructures (AWS, Google Cloud, Microsoft Azure) affects the autonomy of local businesses.
-- Look for cases of companies that lost competitiveness due to relying on global platforms for data storage and processing.
-- Map the impacts of AI centralization on the Brazilian and global economy.
-- Assess the macroeconomic and geopolitical risks of digital dependence.
-- Investigate the potential of decentralization to strengthen digital sovereignty (edge computing, federated learning).
-- Understand if global algorithms trained with data from developed countries fail to understand emerging markets.
-- Explore the relationship with open-source initiatives and distributed data by digital cooperatives.
-- Understand if the centralization of digital infrastructure by large corporations limits innovation and increases costs for companies (including emerging startups).
-- Investigate if decentralized autonomous organizations (DAOs) can challenge traditional corporate models.
-- Explore cases of companies and communities using blockchain to decentralize governance and access to capital.
+Crawford, K. Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press, 2021. Available at: https://chooser.crossref.org/?doi=10.12987%2F9780300252392. Accessed on: March 25, 2025.
 
-## Scope
+Ferrari, E. et al. Big AI: the cloud as marketplace and infrastructure. 2023. Available at: https://spir.aoir.org/ojs/index.php/spir/article/view/13510. Accessed on: March 25, 2025.
 
-This study will investigate the impact of the centralization of artificial intelligence infrastructure in emerging markets, focusing on technological dependence, its effects on digital sovereignty, economic competitiveness, and geopolitical risks. The research will also explore decentralized alternatives, such as edge computing and federated learning, to mitigate these vulnerabilities and promote greater technological autonomy. By addressing a critical gap in the literature on the digital economy, the study aims to provide a theoretical framework for public policies that promote digital sovereignty and help emerging markets avoid "digital colonization", strengthening their technological and competitive capabilities in the global landscape.
+Khanal, S. et al. Why and how is the power of Big Tech increasing in the policy process? 2024. Available at: https://academic.oup.com/policyandsociety/advance-article/doi/10.1093/polsoc/puae012/7636223. Accessed on: March 25, 2025.
 
+Lim, W. Y. B. et al. Decentralized edge intelligence: a dynamic resource allocation framework for hierarchical federated learning. IEEE Transactions on Parallel and Distributed Systems, vol. 33, pp. 536–550, 2022. Available at: https://ieeexplore.ieee.org/document/9479786. Accessed on: March 25, 2025.
+
+Luchs, A.; Apprich, C. Learning machine learning: on the political economy of big tech education. 2023. Available at: https://journals.sagepub.com/doi/10.1177/20539517231153806. Accessed on: March 25, 2025.
+
+Luitse, S.; Denkena, S. The great transformer: examining the role of large language models in society. 2021. Available at: https://journals.sagepub.com/doi/10.1177/20539517211047734. Accessed on: March 25, 2025.
+
+Salama, A. et al. Decentralized federated learning on the edge over wireless mesh networks. IEEE Access, vol. 11, pp. 124709–124724, 2023. Available at: https://ieeexplore.ieee.org/document/10304146. Accessed on: March 25, 2025.
+
+van der Vlist, F. N. et al. Big AI, cloud infrastructure dependence and the geopolitics of AI. 2024. Available at: https://journals.sagepub.com/doi/10.1177/20539517241232630. Accessed on: March 25, 2025.
+
+van der Vlist, F. N. et al. The political economy of AI as platform infrastructures. 2025. Available at: https://spir.aoir.org/ojs/index.php/spir/article/view/14088. Accessed on: March 25, 2025.
+
+
+
+## (sprint 5)
 ## Research Methodology
 
 ### Type of Research
